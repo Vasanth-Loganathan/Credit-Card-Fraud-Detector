@@ -31,7 +31,6 @@
 - [SHAP Explainability](#-shap-explainability)
 - [Streamlit App — FraudGuard](#-streamlit-app--fraudguard)
 - [Installation & Usage](#-installation--usage)
-- [Authors](#-authors)
 
 ---
 
